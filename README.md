@@ -5,6 +5,19 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+I have Added source code for most important widgets of flutter to learn.
+    - Container Widget
+    - Expanded Widget
+    - List Tile View
+    - List View builder Widget
+    - Circle Avatar Widget
+    - Stacks Widget
+    - TextForm Field Widget
+    - RichText Widget
+    - SizedBox Widget
+    - Divider 
+    - Padding and Align Widgets
+    - Image Widget
 
 A few resources to get you started if this is your first Flutter project:
 
